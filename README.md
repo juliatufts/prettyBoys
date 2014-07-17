@@ -5,3 +5,6 @@ Put Pretty Boys In Leggings is a social commentary on gender discrimination and 
 
 Controls are: [Arrow keys] OR [WASD] to move.
               [Space] to cast a spell
+              
+![](pb_screenshot1.png)
+![](pb_screenshot2.png)
